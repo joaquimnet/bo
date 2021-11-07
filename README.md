@@ -1,11 +1,3 @@
 # bo
 
-aa
-
-bb
-
-cc
-
-DD
-
-ee
+This is an empty repository used to test github integrations.
